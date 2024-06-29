@@ -19,7 +19,7 @@ Figma：https://www.figma.com/design/y6hU5S0Z7cVLigjEfIOyev/%E5%8D%92%E6%A5%AD%E
 - [x] メモ作成機能
 - [x] メモ編集機能
 - [x] メモ削除機能
-- [x] 振り返りメモ作成機能
+- [x] 振り返りメモ作成機能(メモは複数選択可能)
 - [x] 通知機能
 - [x] X共有機能
 
