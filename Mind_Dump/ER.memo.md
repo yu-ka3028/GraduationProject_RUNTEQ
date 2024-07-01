@@ -68,7 +68,7 @@
   - notifications.user_id は users.id を参照
 
 
-# 2024/06/30
+### 2024/06/30
 レビュー内容
 
 >notifications
@@ -89,7 +89,9 @@ conditionsはどういう値が入る想定でしょうか？
   - 振り返りメモ(reflection_memos)
     : １つ以上のmemosを関連付けて、新規メモを作成
 
+### 2024/07/01
 ### ER図
+https://i.gyazo.com/401acaef173909a4bceddf759ee4cbb6.png
 
 ### テーブル内容詳細
 - usersテーブル （ユーザー情報を持つテーブル）
