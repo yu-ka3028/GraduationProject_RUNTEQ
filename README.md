@@ -145,9 +145,13 @@
 | インフラ | heroku |
 | Web API | LINE Messaging API、OpenAI API |
 
-#　画面遷移図（途中）
+#　画面遷移図
 
 [figma](https://www.figma.com/design/y6hU5S0Z7cVLigjEfIOyev/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C?node-id=0-1&t=O3R2elHRstBWfdgo-1)
+
+# ER図
+![alt text](image.png)
+[内容詳細](https://github.com/yu-ka3028/GraduationProject_RUNTEQ/pull/9)
 
 ### (全体の機能概要)
 - ユーザー登録機能
