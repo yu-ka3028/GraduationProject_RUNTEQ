@@ -1,15 +1,13 @@
+## 関連issue
+Closes yu-ka3028/GraduationProject_RUNTEQ#11
+
 ## 概要
 <!--このPull Requestの目的を簡潔に説明してください。-->
+- 
 
-## 変更内容
+## 実装内容
 - 変更点1<br>
 
 - 変更点2<br>
 
-- 変更点3<br>
-
-## 関連Issue
-- Issue番号: #
-
 ## 備考
-  
